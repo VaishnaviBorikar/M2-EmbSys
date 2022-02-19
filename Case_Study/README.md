@@ -37,4 +37,4 @@
 ## Mid-Complex embedded system
 ### Automatic Teller Machine (ATM)
 #### Block Diagram
-![ATM block diagram](https://user-images.githubusercontent.com/98817420/154805495-2d3709f3-3d5f-4a6b-ad92-97ae4f54d9af.png)
+![ATM block diagram](https://user-images.githubusercontent.com/98817420/154805772-940549d9-ef18-417f-a417-7c9024a34a3e.png)
