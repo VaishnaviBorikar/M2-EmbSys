@@ -33,3 +33,8 @@
   | LLR01| Electric power or use of battery for back-up power |
   |LLR02 | Use of led to show time |
   |LLR03 | Pressing the corresponding keys to set time |
+
+## Mid-Complex embedded system
+### Automatic Teller Machine (ATM)
+#### Block Diagram
+![ATM block diagram](https://user-images.githubusercontent.com/98817420/154805495-2d3709f3-3d5f-4a6b-ad92-97ae4f54d9af.png)
