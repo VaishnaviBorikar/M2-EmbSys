@@ -16,8 +16,8 @@
 - This are the switches use for on/off the buzzer
 ##### Buzzer
 - Generates loud sound when the alarm time is come
-##### Real Time chip
-- To take up the time 
+##### Real Time clock
+- Chip to take up the time 
 
 #### Requirements
 - High-Level Requirement
