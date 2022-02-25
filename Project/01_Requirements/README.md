@@ -1,6 +1,24 @@
 ## Water Supply Control
 - water tank overflow is a common problem which leads to the wastage of water. A circuit which will detect the water level and will glow a led upon getting the water tank full or a preset level. Water level indicator is a modern way of measuring the water level using latest technologies like sensors,arduino.The main aim of the project is to calculate the water level at any instant of time. We use arduino and ultrasonic sensor to make it possible. This may be useful to conserve water and helps us.
 
+### Requirements
+- High-Level Requirements
+| ID | Description |
+  |---|---|
+  |HLR01| Servo Motor Should ON/OFF |
+  |HLR02 | Ultrasonic Sensor should sense the level of water |
+  |HLR03 | LED should glow RED/GREEN |
+  |HLR04 | Voltmeter should measure the voltage |
+  
+ - Low-Level Requirements
+   | ID | Description |
+    |---|---|
+    |LLR01| Servo motor valve should be open when the water is less |
+    |LLR02 | Servo motor valve should close when water is full |
+    |LLR03 | LED should glow Red when valve is open |
+    |LLR04 | LED should glow green when valve is closed |
+    |LLR05 | Potentiometer should regulate the voltage properly |
+  
 ### Block Diagram
 ![water supply control](https://user-images.githubusercontent.com/98817420/155746157-e282c0cd-1574-42bb-8356-e648e0c306d2.png)
 #### Arduino
@@ -13,5 +31,3 @@
 - The mechanical system of sensor is destined to convert linearly the value of potentiometer resistance to the water level variation. The signal conditioning consists of analog and digital system especially microcontroller circuit.
 #### Voltmeter
 - Voltmeters can also be used to measure DC voltage as well as sinusoidal AC voltages but the introduction of a voltmeter as a measuring instrument into a circuit can interfere with its steady state conditions.
-
-### Requirements
