@@ -34,6 +34,9 @@
 #### LED
 -  LED is a semiconductor device used in many electronic devices, mostly used for indication purposes. It is used widely as indicator during test for checking the validity of results at different stages.It is very cheap and easily available in variety of shape, color and size. The LEDs are also used in designing of message display boards and traffic control signal lights etc.
 
+### SWOT Analysis
+![SWOT_WATER](https://user-images.githubusercontent.com/98817420/157003795-3924ef1f-5616-44f6-ad7e-c627c219cac9.jpg)
+
 ### 4W's and 1H
 #### Who
 - Anyone, this system can be used for industrial and domestic purpose.
