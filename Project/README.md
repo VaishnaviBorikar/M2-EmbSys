@@ -9,5 +9,5 @@
 | `02_Architecture` | Flow Chart |
 | `03_Implementation` | code |
 | `04_Testplan` | test table |
-| `05_images` | output images |
-| `05_Report` | output images |
+| `05_Report` | Report of the project |
+| `06_Images` |  Simulations |
