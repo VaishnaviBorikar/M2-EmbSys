@@ -17,3 +17,6 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/dc3443423824498ea3aa0c7dd4ecb4fb)](https://www.codacy.com/gh/VaishnaviBorikar/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=VaishnaviBorikar/M2-EmbSys&amp;utm_campaign=Badge_Grade)
 ## Cpp Checck
 [![Cpp Check](https://github.com/VaishnaviBorikar/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/VaishnaviBorikar/M2-EmbSys/actions/workflows/c-cpp.yml)
+## Codiga batch
+![svg](https://user-images.githubusercontent.com/98817420/157242758-90d2f5d0-f4c3-4c30-b6cf-04095e416c58.svg)
+![svg](https://user-images.githubusercontent.com/98817420/157242768-61c92894-7bcf-4028-bac6-5e11c4d3f96c.svg)
