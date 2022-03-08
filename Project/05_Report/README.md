@@ -58,7 +58,7 @@
 
 ### Simulation
 ![water_1](https://user-images.githubusercontent.com/98817420/157006791-64a12912-f4cf-4ed1-88b8-61314967d558.png)
-![water_2](https://user-images.githubusercontent.com/98817420/157006814-60effe86-b7d0-48b1-99b0-0ab01b5f8d13.png)
+![water_3](https://user-images.githubusercontent.com/98817420/157179565-56b2ac42-110d-473f-abdc-ed737d3da17a.png)
 
 ### Test Plan
 #### High-Level test plan
